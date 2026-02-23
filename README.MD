@@ -16,7 +16,7 @@ Google Account. The React components are [online with Storybook](https://www.chr
 
 ## Selenium Test Run
 
-<img src="https://evening-eyrie-25210-f2edb2eac607.herokuapp.com/images/selenium.webp" width="400">
+<img src="https://file.garden/aFRi5x2D4TDUTvOr/selenium.webp" width="400">
 
 Rescources
 
